@@ -1,0 +1,24 @@
+
+
+body {
+    font-family: 'Tajawal', sans-serif;
+    background: #f8fafc;
+}
+
+.modal-overlay {
+    background: rgba(15,23,42,.55);
+}
+
+input,
+textarea,
+select {
+    outline: none;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37,99,235,.10);
+}
+
